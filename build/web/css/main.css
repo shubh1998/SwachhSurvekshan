@@ -1,0 +1,69 @@
+#logo{
+	text-align: center;
+	color:#fff;
+}
+
+#wrapper{
+	margin-top:25px;
+	padding-top: 10%;
+	max-width: 1200px;
+	margin:0 auto;
+	padding:0 5%;
+}
+footer{
+	font-size: 0.75em;
+	text-align: center;
+	padding-top:50px;
+	color:#ccc;
+	clear:both;
+}
+body{
+	background-color: #fff;
+	color:#999;
+}
+h2{
+	font-size:0.75em;
+	margin:-5px 0 0;
+	font-weight:normal;
+}
+img{
+	max-width: 100%;
+}
+.social-media{
+	height:25px;
+	width:25px;
+	margin:0 5px;
+}
+.profile-pic{
+	display:block;
+	width: 300px;
+	height: 200px;
+	margin:0 auto 30px;
+	border-radius: 50px;
+}
+h3{
+	margin:0 0 1em 0;
+}
+.contact-info{
+	list-style:none;
+	padding:0;
+	margin:0;
+	font-size: 0.9em;
+}
+.contact-info li.phone a{
+	background-image: url('img/phone.png');
+}
+.contact-info li.email a{
+	background-image: url('img/mail.png');
+}
+.contact-info li.twitter a{
+	background-image: url('img/twitter.png');
+}
+.contact-info a{
+	display:block;
+	min-height:20px;
+	padding:0 0 0 30px;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	margin:0 0 10px;
+}
